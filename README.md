@@ -20,7 +20,7 @@ Celem zadania jest stworzenie procedury w PL/SQL umożliwiającej rezerwację bi
 
 ---
 
-## 🇬🇧 Project Description
+## EN Project Description
 
 **Project goal:**  
 The goal of this task is to create a PL/SQL procedure that allows booking concert tickets with support for concurrent sessions and seat limits. The procedure takes a PESEL, returns a booking status, and a unique reservation ID (UUID).  
